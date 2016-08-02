@@ -4,8 +4,6 @@ Csv 2 fixture
 
 A simple Django app to convert a csv to django fixture.
 
-Detailed documentation is in the "docs" directory.
-
 Quick start
 -----------
 
